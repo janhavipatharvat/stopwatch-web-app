@@ -1,7 +1,5 @@
 # Stopwatch Web Application
 
-Successfully completed Task 02 of my Web Development Internship at Prodigy InfoTech.
-
 ### 🔹 Task Objective:
 Create a fully functional stopwatch web application with start, pause, reset, and lap functionality.
 
