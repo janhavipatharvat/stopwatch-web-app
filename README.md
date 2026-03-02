@@ -1,6 +1,4 @@
-# PRODIGY_WD_02
-
-## Task 02 – Stopwatch Web Application
+# Stopwatch Web Application
 
 Successfully completed Task 02 of my Web Development Internship at Prodigy InfoTech.
 
@@ -20,7 +18,7 @@ Create a fully functional stopwatch web application with start, pause, reset, an
 - JavaScript
 
 ### 🔹 Live Website:
- https://janhavipatharvat.github.io/PRODIGY_WD_02
+ 
 
 ---
 
